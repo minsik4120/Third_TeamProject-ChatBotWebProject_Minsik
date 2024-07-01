@@ -3,21 +3,26 @@
 
 
 ## 🔥 프로젝트 소개 
-
-<img src="https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/c34d08fb-aa68-40cd-be5f-58a276115409" alt="이미지 설명" style="height: 500px; width: 100%;"/>
-
-
-⭐️ 이팀 저팀이 여행 상품을 주제로 선정한 이유 </br>
+1️⃣ Weather Bot 웹 개발
 
 
 
-1️⃣ 지친 일상을 조금이나마 힐링 할 수 있고 좋은 관광 상품을 개발하여 국내외 관광객들에게 더욱 매력적인 여행 경험을 제공하고자 했습니다  </br>
+2️⃣ Bus Bot 웹 개발
 
 
-2️⃣ 또한  최근 여행상품 수요는 꾸준히 증가추세이며, 특히 온라인 여행시장이 더욱 성장하고 있습니다.  </br>
+3️⃣ Movie Bot 웹 개발
+
+⭐️ GroupAir팀이 여행 상품을 주제로 선정한 이유 </br>
 
 
-3️⃣ 여행상품 웹사이트를 기획함으로써 고객들에게는 더욱 편리하고 다양한 선택의 기회를 제공하고자 합니다. </br>
+
+1️⃣ 날씨의 영향을 많이 받는 업종이기 때문에 직원과 탑승객들을 위한 날씨 정보 </br>
+
+
+2️⃣ 비행기 탑승객들을 위한 버스 상세 정보 및 노선도 조회  </br>
+
+
+3️⃣ 탑승객들을 위한 영화 시청 시스템 </br>
 
 
 
@@ -26,7 +31,8 @@
 
 
 ## 1. 개발 환경과 ERD 환경 (개발환경,DB)
-![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/b6abc7a1-e013-417d-bc7b-11eb1e62d9d7)
+![image](https://github.com/minsik4120/Third_TeamProject-ChatBotWebProject_Minsik/assets/154856679/44cbdc8c-ceaa-4325-90bb-958a08970bba)
+
 ![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/f3099022-ae1b-4927-b62f-a56eaa840e35)
 
 
@@ -43,16 +49,16 @@
 
 ## 2. 팀원 구성
   역할 분담  <br/>
-   * 🐬 서민식 - 메인페이지, 오토겔러리, 서치 기능 , 관리자 , 네이버 api   <br/>
-   * ⭐ 조** - 홈, 회원 , kakaomap, 인기순위 구현 , ERD   <br/>
-   * 🌝 정** - Q&A게시판 CRUD   <br/>
-   * 👍 박** - 상품 등록, 목록, 수정, 판매 페이지, 장바구니, 댓글 CRUD ,   <br/>
-   * 🙎 왕** - 회원 CRUD , ChatBot 추천 검색어 창 <br/>
-
-
+   * ⭐ 서민식(팀장) - CICD, 영화 정보 API(일별 박스 오피스) ,상세정보 API, 영화 ChatBot    <br/>
+   * 🎅 박** - 버스 노선도API ,  버스 위치정보API , 공항 버스 정보 조회 API 
+   * 🌝 정** - 버스 ChatBot  <br/>
+   * 👻 조** -  지역 날씨API , 공항 날씨API, 날씨 ChatBot <br/>
+   * 🙎 손** - 영화 정보API , 주별 박스 오피스API , 전체 영화 목록API , 영화 ChatBot <br/>
+   
 
 ## 3. 개발 기간 및 작업 관리
-![image](https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/e7936983-8303-4d5b-8807-97ab70ffb627)
+![image](https://github.com/minsik4120/Third_TeamProject-ChatBotWebProject_Minsik/assets/154856679/36d215b4-56ad-485f-b176-3137b73d940f)
+
 
 
 
