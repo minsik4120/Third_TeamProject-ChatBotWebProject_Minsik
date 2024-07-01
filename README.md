@@ -63,7 +63,7 @@
 
 
 
-## 4. 담당 파트 index , 관리자 페이지  <br/>
+## 4. CICD, 영화 정보 API(일별 박스 오피스) ,상세정보 API, 영화 ChatBot  <br/>
 
 1️⃣ 프론트(index) : 제목 또는 내용을 선택하여 작성해 작성한 글자가 포함된 품목을 조회가 가능하고 서치 기능은 카테고리별 판매자가 상품을
 등록하면 품목별로 조회가 가능하게 하였습니다 .
@@ -71,7 +71,7 @@ ex) 판매자가 미국 , 유럽 아시아 등으로 옵션을 선택에 등록�
 가 되도록 구현
 
 
-  ### (1) index 페이지   <br/>
+  ### (1)CICD   <br/>
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/f9ae580b-d14b-4165-b790-13a834e15302" alt="이미지 설명" width="100%" height="700"/>
@@ -102,7 +102,7 @@ https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/1548
 습니다 . 그리고 관리자 페이지에 들어가 네이버 API 워크스페이스로 연동하여 사용할 수 있도록 하였습니다.
 
 
-  ### (2) 관리자 페이지 
+  ### (2) 영화 정보 API(일별 박스 오피스) 
    
   
    
@@ -115,7 +115,7 @@ https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/1548
 
 
 
-  ### (3) 네이버 API 
+  ### (3) 상세정보 API
 
 1️⃣ 조직 배치(사원 등록 ) </br>
 
@@ -134,3 +134,6 @@ https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/1548
 3️⃣ 드라이버 </br>
 
 https://github.com/minsik4120/First_TeamProject-ShoppingMall_Minsik-/assets/154856679/909e395c-a88a-406a-bea9-5162364c0041
+
+
+  ### (4) 영화 ChatBot
